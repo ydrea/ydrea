@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ydrea
 - 👀 I’m interested in React (and Scheme;)
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on my public projects.
 - 📫 How to reach me at ydrea.wrld@gmail.com
 

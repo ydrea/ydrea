@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ydrea
-- 👀 I’m interested in React (and Scheme;)
+- 👀 I’m interested in React (and Scheme/LISP)
 - <3 I'm currenntly in love with Redux!
 - >:) (I do admit cheating with Clojure...)
 - 🌱 I’m currently learning React Native.

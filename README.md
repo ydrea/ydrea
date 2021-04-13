@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ydrea
 - 👀 I’m interested in React (and Scheme/LISP)
 - <3 I'm currently in a relationship with JavaScript
-- >:) (I will admit cheating with Clojure on occasion...)
-- 🌱 I’m currently learning React Native.
+- >:) (I will admit cheating with Python on occasion...)
+- 🌱 I’m currently learning Redux.
 - 💞️ I’m looking to collaborate on my public projects.
-- 📫 How to reach me at ydrea.wrld@gmail.com
+- 📫 ...reach me at ydrea.wrld@gmail.com
 
 <!---
 ydrea/ydrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

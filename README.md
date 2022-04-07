@@ -2,7 +2,7 @@
 - 👀 I’m interested in React (and Scheme/LISP)
 - <3 I'm currently in a relationship with TypeScript
 - >:) (I will admit cheating with Python on occasion...)
-- 🌱 I’m currently learning SolidJS.
+- 🌱 I’m currently learning Redux ToolKit.
 - 💞️ I’m looking to collaborate on my public projects.
 - 📫 ...reach me at ydrea.wrld@gmail.com
 

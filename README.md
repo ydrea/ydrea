@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ydrea
 - 👀 I’m interested in React (and Scheme/LISP)
-- <3 I'm currently in a relationship with TypeScript
+- <3 I'm currently in a relationship with JavaScript
 - >:) (I will admit cheating with Python on occasion...)
-- 🌱 I’m currently learning Redux ToolKit.
+- 🌱 I’m currently learning Jest.
 - 💞️ I’m looking to collaborate on my public projects.
 - 📫 ...reach me at ydrea.wrld@gmail.com
 

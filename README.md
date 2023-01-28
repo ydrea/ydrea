@@ -2,8 +2,8 @@
 - 👀 I’m interested in React (and Scheme/LISP)
 - <3 I'm currently in a relationship with JavaScript
 - >:) (I will admit cheating with Python on occasion...)
-- 🌱 I’m currently learning Solito.
-- 💞️ I’m looking to collaborate on my public projects.
+- 🌱 I’m currently learning Docker.
+- 💞️ I’m looking for collaborators on my public projects.
 - 📫 ...reach me at ydrea.wrld@gmail.com
 
 <!---

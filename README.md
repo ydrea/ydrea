@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @ydrea, a full stack developer 
-- 👀 I’m interested in React (and Scheme/LISP)
+- 👋 Hi, I’m @ydrea, a full stack react (native) developer 
+- 👀 I’m interested in geoinformatics
 - <3 I'm currently in a relationship with TypeScript
 - >:) (I will admit cheating with Python on occasion...)
 - 🌱 I’m currently teaching Tauri to PostGIS ;)
 - 💞️ I’m looking for collaborators on my public projects.
 - 📫 ...reach me at ydrea.wrld@gmail.com, or check out my works:
-  https://suhozid.hr
-  https://scenaamadeo.hr
+  > https://suhozid.hr
+  > https://scenaamadeo.hr
   https://dragodid.org
   https://ekomuzej.com
   https://client.croatianlandscape.hr

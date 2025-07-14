@@ -5,11 +5,11 @@
 - 🌱 I’m currently teaching Tauri to PostGIS ;)
 - 💞️ I’m looking for collaborators on my public projects.
 - 📫 ...reach me at ydrea.wrld@gmail.com, or check out my works:
-- https://suhozid.hr
-- https://scenaamadeo.hr
-- https://dragodid.org
-- https://ekomuzej.com
-- https://client.croatianlandscape.hr
+- > https://suhozid.hr
+- > https://scenaamadeo.hr
+- > https://dragodid.org
+- > https://ekomuzej.com
+- > https://client.croatianlandscape.hr
 
 <!---
 ydrea/ydrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

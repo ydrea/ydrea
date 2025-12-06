@@ -7,6 +7,7 @@
 - 📫 ...reach me at ydrea.wrld@gmail.com, or check out my works:
 - > https://suhozid.hr
 - > https://scenaamadeo.hr
+- > https://petarjandric.com
 - > https://dragodid.org
 - > https://ekomuzej.com
 - > https://client.croatianlandscape.hr

@@ -11,7 +11,7 @@
 - > https://dragodid.org
 - > https://ekomuzej.com
 - > https://client.croatianlandscape.hr
-- > moscenice.vercel.app
+- > https://moscenice.vercel.app
  
 <!---
 ydrea/ydrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

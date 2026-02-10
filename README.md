@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on an AR atlas of islands in Croatia!  
 - 💞️ I’m looking for collaborators on my public projects.
 - 📫 ...reach me at ydrea.wrld@gmail.com, or check out my apps:
-  - > https://suhozid.hr
+  - https://suhozid.hr
   - > https://scenaamadeo.hr
   - > https://petarjandric.com
   - > https://dragodid.org
